@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Practice for test cafe",
   "scripts": {
-    "test": "testcafe chrome tests/",
+    "test": "testcafe chrome:headless tests/",
     "local-browser": "./node_modules/.bin/testcafe --list-browsers"
   },
   "dependencies": {
