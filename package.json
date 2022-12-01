@@ -7,6 +7,6 @@
     "local-browser": "./node_modules/.bin/testcafe --list-browsers"
   },
   "dependencies": {
-    "testcafe": "^1.7.0"
+    "testcafe": "^1.20.1"
   }
 }
